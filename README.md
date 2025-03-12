@@ -46,7 +46,7 @@ else they will have undetermined behaviour when used with cert-manager.
 **It is essential that you configure and run the test suite when creating a
 DNS01 webhook.**
 
-An example Go test file has been provided in [main_test.go](https://github.com/cert-manager/webhook-example/blob/master/main_test.go).
+An example Go test file has been provided in [main_test.go](https://github.com/kittizz/cert-manager-webhook/blob/master/main_test.go).
 
 You can run the test suite with:
 

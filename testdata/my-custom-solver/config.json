@@ -1,1 +1,7 @@
-{}
+{
+    "serverUrl": "api_endpoint_url",
+    "authTokenSecretRef": {
+        "name": "my-secret",
+        "key": "token"
+    }
+}
