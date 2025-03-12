@@ -32,7 +32,7 @@ technitium:
     # Reference to Secret containing authentication token
     authTokenSecretRef:
         # Name of the Secret
-        name: 'my-secret'
+        name: 'api_token_secret'
         # Key in the Secret that contains the token
         key: 'token'
 resources:
